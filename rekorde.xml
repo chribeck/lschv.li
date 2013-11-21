@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECORDLISTS>
+    <RECORDLIST gender="F" course="SCM" name="Damen - Kurzbahn (25m)" updated="2012-04-05">
+        <RECORDS>
+            <RECORD date="08.11.09" country="AUT" city="Wien" swimtime="26.63">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="08.11.09" country="AUT" city="Wien" swimtime="56.96">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="25.03.12" country="SUI" city="Uster" swimtime="1:59.46">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="12.11.11" country="NOR" city="Stavanger" swimtime="4:07.51">
+                <SWIMSTYLE stroke="FREE" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="09.12.11" country="POL" city="Szczecin" swimtime="8:29.53">
+                <SWIMSTYLE stroke="FREE" distance="800" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+			<RECORD date="02.05.09" country="SUI" city="Biel" swimtime="19:17.63">
+                <SWIMSTYLE stroke="FREE" distance="1500" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="25.11.11" country="SUI" city="Uster" swimtime="32.01">
+                <SWIMSTYLE stroke="BACK" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Manco" gender="F" firstname="Laura"/>
+            </RECORD>
+            <RECORD date="08.11.09" country="AUT" city="Wien" swimtime="1:03.52">
+                <SWIMSTYLE stroke="BACK" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="07.11.09" country="AUT" city="Wien" swimtime="2:16.64">
+                <SWIMSTYLE stroke="BACK" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="28.11.09" country="SUI" city="Savosa" swimtime="34.04">
+                <SWIMSTYLE stroke="BREAST" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="29.09.13" country="LIE" city="Eschen" swimtime="1:13.27">
+                <SWIMSTYLE stroke="BREAST" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="26.10.13" country="SUI" city="Chur" swimtime="2:38.12">
+                <SWIMSTYLE stroke="BREAST" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="03.05.09" country="SUI" city="Biel" swimtime="29.98">
+                <SWIMSTYLE stroke="FLY" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="09.04.11" country="SUI" city="Uster" swimtime="1:03.38">
+                <SWIMSTYLE stroke="FLY" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="30.11.12" country="NOR" city="Stavanger" swimtime="2:14.70">
+                <SWIMSTYLE stroke="FLY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="28.09.13" country="LIE" city="Eschen" swimtime="1:06.15">
+                <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="28.11.09" country="AUT" city="Wien" swimtime="2:21.58">
+                <SWIMSTYLE stroke="MEDLEY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="25.03.12" country="SUI" city="Uster" swimtime="4:51.64">
+                <SWIMSTYLE stroke="MEDLEY" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="27.10.12" country="SUI" city="Chur" swimtime="1:52.88">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1996" lastname="Manco" gender="F" firstname="Laura"/>
+                <ATHLETE birthyear="1997" lastname="Vetsch" gender="F" firstname="Tamara"/>
+                <ATHLETE birthyear="1997" lastname="Büchel" gender="F" firstname="Jasmin"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="17.12.11" country="LIE" city="Eschen" swimtime="4:08.44">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1996" lastname="Manco" gender="F" firstname="Laura"/>
+                <ATHLETE birthyear="1997" lastname="Büchel" gender="F" firstname="Jasmin"/>
+                <ATHLETE birthyear="1997" lastname="Vetsch" gender="F" firstname="Tamara"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="20.03.98" country="SUI" city="Lausanne" swimtime="9:42.82">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1982" lastname="Wolfinger" gender="F" firstname="Petra"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+                <ATHLETE birthyear="1980" lastname="Rothmund" gender="F" firstname="Nicole"/>
+            </RECORD>
+            <RECORD date="20.12.98" country="SUI" city="Sion" swimtime="5:39.76">
+                <SWIMSTYLE stroke="BREAST" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1982" lastname="Wolfinger" gender="F" firstname="Petra"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+                <ATHLETE birthyear="1980" lastname="Rothmund" gender="F" firstname="Nicole"/>
+            </RECORD>
+            <RECORD date="28.10.12" country="SUI" city="Chur" swimtime="2:06.88">
+                <SWIMSTYLE stroke="MEDLEY" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1996" lastname="Manco" gender="F" firstname="Laura"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+                <ATHLETE birthyear="1997" lastname="Büchel" gender="F" firstname="Jasmin"/>
+				<ATHLETE birthyear="1997" lastname="Vetsch" gender="F" firstname="Tamara"/>
+            </RECORD>
+            <RECORD date="07.02.99" country="SUI" city="Biel" swimtime="4:55.80">
+                <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1980" lastname="Rothmund" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1982" lastname="Wolfinger" gender="F" firstname="Petra"/>
+            </RECORD>
+        </RECORDS>
+    </RECORDLIST>
+    <RECORDLIST gender="F" course="LCM" name="Damen - Langbahn (50m)" updated="2012-04-05">
+        <RECORDS>
+            <RECORD date="11.06.11" country="AUT" city="Graz" swimtime="27.15">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="03.03.12" country="AUT" city="Graz" swimtime="57.37">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="30.05.13" country="LUX" city="Kirchberg" swimtime="2:02.57">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="29.07.12" country="GBR" city="London" swimtime="4:12.99">
+                <SWIMSTYLE stroke="FREE" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="02.08.12" country="GBR" city="London" swimtime="8:35.18">
+                <SWIMSTYLE stroke="FREE" distance="800" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="13.07.13" country="RUS" city="Kazan" swimtime="16:25.66">
+                <SWIMSTYLE stroke="FREE" distance="1500" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="30.06.12" country="SUI" city="Nyon" swimtime="32.63">
+                <SWIMSTYLE stroke="BACK" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="17.07.09" country="SUI" city="Renens" swimtime="1:07.42">
+                <SWIMSTYLE stroke="BACK" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="29.01.11" country="AUT" city="Enzersdorf" swimtime="2:29.59">
+                <SWIMSTYLE stroke="BACK" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Batliner" gender="F" firstname="Maria"/>
+            </RECORD>
+            <RECORD date="19.02.12" country="SUI" city="Montreux" swimtime="34.42">
+                <SWIMSTYLE stroke="BREAST" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F"  firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="30.05.13" country="LUX" city="Kirchberg" swimtime="1:13.40">
+                <SWIMSTYLE stroke="BREAST" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="29.05.13" country="LUX" city="Kirchberg" swimtime="2:34.91">
+                <SWIMSTYLE stroke="BREAST" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="20.01.13" country="SUI" city="Genf" swimtime="29.64">
+                <SWIMSTYLE stroke="FLY" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="29.05.13" country="LUX" city="Kirchberg" swimtime="1:02.28">
+                <SWIMSTYLE stroke="FLY" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="28.05.13" country="LUX" city="Kirchberg" swimtime="2:15.96">
+                <SWIMSTYLE stroke="FLY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="28.05.13" country="LUX" city="Kirchberg" swimtime="2:24.19">
+                <SWIMSTYLE stroke="MEDLEY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+            </RECORD>
+            <RECORD date="31.05.13" country="LUX" city="Kirchberg" swimtime="5:02.55">
+                <SWIMSTYLE stroke="MEDLEY" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="27.04.13" country="SUI" city="Genf" swimtime="1:55.09">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1996" lastname="Manco" gender="F" firstname="Laura"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+                <ATHLETE birthyear="1997" lastname="Vetsch" gender="F" firstname="Tamara"/>
+                <ATHLETE birthyear="1998" lastname="Banzer" gender="F" firstname="Valentina"/>
+            </RECORD>
+            <RECORD date="31.05.13" country="LUX" city="Kirchberg" swimtime="4:00.94">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1997" lastname="Büchel" gender="F" firstname="Jasmin"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+                <ATHLETE birthyear="1996" lastname="Vetsch" gender="F" firstname="Tamara"/>
+            </RECORD>
+            <RECORD date="29.05.13" country="LUX" city="Kirchberg" swimtime="8:43.34">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="4"/>
+                <ATHLETE birthyear="1996" lastname="Kind" gender="F" firstname="Celina"/>
+                <ATHLETE birthyear="1997" lastname="Büchel" gender="F" firstname="Jasmin"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="2:25.81">
+                <SWIMSTYLE stroke="BACK" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1981" lastname="Schättin" gender="F" firstname="Jacqueline"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+                <ATHLETE birthyear="1987" lastname="Gabathuler" gender="F" firstname="Sabrina"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="2:41.74">
+                <SWIMSTYLE stroke="BREAST" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Rothmund" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1982" lastname="Wolfinger" gender="F" firstname="Petra"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="2:18.61">
+                <SWIMSTYLE stroke="FLY" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+                <ATHLETE birthyear="1981" lastname="Schättin" gender="F" firstname="Jacqueline"/>
+                <ATHLETE birthyear="1980" lastname="Rothmund" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+            </RECORD>
+            <RECORD date="03.05.97" country="BEL" city="Antwerpen" swimtime="2:21.05">
+                <SWIMSTYLE stroke="MEDLEY" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Zenhäusern" gender="F" firstname="Nora"/>
+                <ATHLETE birthyear="1983" lastname="Wenaweser" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1980" lastname="Rothmund" gender="F" firstname="Nicole"/>
+                <ATHLETE birthyear="1982" lastname="Wolfinger" gender="F" firstname="Petra"/>
+            </RECORD>
+            <RECORD date="30.05.13" country="LUX" city="Kirchberg" swimtime="4:28.03">
+                <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1996" lastname="Kind" gender="F" firstname="Celina"/>
+                <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
+                <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
+                <ATHLETE birthyear="1997" lastname="Büchel" gender="F" firstname="Jasmin"/>
+            </RECORD>
+        </RECORDS>
+    </RECORDLIST>
+    <RECORDLIST gender="M" course="SCM" name="Herren - Kurzbahn (25m)" updated="2012-11-29">
+        <RECORDS>
+            <RECORD date="27.10.13" country="SUI" city="Uster" swimtime="24.81">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="29.09.13" country="LIE" city="Eschen" swimtime="53.28">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="12.12.12" country="TUR" city="Istanbul" swimtime="1:52.22">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="22.11.12" country="FRA" city="Chartres" swimtime="3:55.31">
+                <SWIMSTYLE stroke="FREE" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="16.12.12" country="TUR" city="Istanbul" swimtime="8:10.06">
+                <SWIMSTYLE stroke="FREE" distance="800" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="26.10.13" country="SUI" city="Uster" swimtime="15:32.57">
+                <SWIMSTYLE stroke="FREE" distance="1500" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="13.02.99" country="LIE" city="Triesen" swimtime="28.60">
+                <SWIMSTYLE stroke="BACK" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+            </RECORD>
+            <RECORD date="03.07.99" country="LIE" city="Triesen" swimtime="1:01.88">
+                <SWIMSTYLE stroke="BACK" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+            </RECORD>
+            <RECORD date="26.10.13" country="SUI" city="Uster" swimtime="2:08.81">
+                <SWIMSTYLE stroke="BACK" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="28.11.09" country="SUI" city="Savosa" swimtime="30.67">
+                <SWIMSTYLE stroke="BREAST" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1992" lastname="Beck" gender="M" firstname="Simon"/>
+            </RECORD>
+            <RECORD date="24.03.13" country="SUI" city="Uster" swimtime="1:04.52">
+                <SWIMSTYLE stroke="BREAST" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="25.03.12" country="SUI" city="Uster" swimtime="2:18.88">
+                <SWIMSTYLE stroke="BREAST" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="09.09.12" country="SUI" city="Uster" swimtime="27.21">
+                <SWIMSTYLE stroke="FLY" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="28.09.13" country="LIE" city="Eschen" swimtime="57.69">
+                <SWIMSTYLE stroke="FLY" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="27.10.13" country="SUI" city="Uster" swimtime="2:06.62">
+                <SWIMSTYLE stroke="FLY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="28.09.13" country="LIE" city="Eschen" swimtime="59.45">
+                <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="14.12.12" country="TUR" city="Istanbul" swimtime="2:01.25">
+                <SWIMSTYLE stroke="MEDLEY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="23.11.12" country="FRA" city="Chartres" swimtime="4:17.07">
+                <SWIMSTYLE stroke="MEDLEY" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="20.12.98" country="SUI" city="Sion" swimtime="1:47.42">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1975" lastname="Laupper" gender="M" firstname="Urban"/>
+                <ATHLETE birthyear="1981" lastname="Laupper" gender="M" firstname="Florin"/>
+            </RECORD>
+            <RECORD date="07.02.99" country="SUI" city="Biel" swimtime="3:42.90">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+            </RECORD>
+            <RECORD date="03.07.99" country="LIE" city="Triesen" swimtime="8:38.78">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="4"/>
+                <ATHLETE birthyear="1983" lastname="Höpker" gender="M" firstname="Nikolas"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="20.12.98" country="SUI" city="Sion" swimtime="4:34.46">
+                <SWIMSTYLE stroke="BACK" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Wolfinger" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="20.12.98" country="SUI" city="Sion" swimtime="4:38.60">
+                <SWIMSTYLE stroke="FLY" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Wolfinger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1975" lastname="Laupper" gender="M" firstname="Urban"/>
+                <ATHLETE birthyear="1981" lastname="Laupper" gender="M" firstname="Florin"/>
+            </RECORD>
+            <RECORD date="20.12.98" country="SUI" city="Sion" swimtime="1:59.01">
+                <SWIMSTYLE stroke="MEDLEY" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1975" lastname="Laupper" gender="M" firstname="Urban"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="07.02.99" country="SUI" city="Biel" swimtime="4:11.71">
+                <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+            </RECORD>
+        </RECORDS>
+    </RECORDLIST>
+    <RECORDLIST gender="M" course="LCM" name="Herren - Langbahn (50m)" updated="2012-04-05">
+        <RECORDS>
+            <RECORD date="26.05.99" country="LIE" city="Vaduz" swimtime="25.15">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="28.07.90" country="SUI" city="Genf" swimtime="55.58">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="" lastname="Lanter" gender="M" firstname="Patrik"/>
+            </RECORD>
+            <RECORD date="02.06.11" country="LIE" city="Vaduz" swimtime="1:59.37">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="15.03.12" country="SUI" city="Oerlikon" swimtime="4:12.52">
+                <SWIMSTYLE stroke="FREE" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="18.03.12" country="SUI" city="Oerlikon" swimtime="8:35.44">
+                <SWIMSTYLE stroke="FREE" distance="800" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="31.05.13" country="LUX" city="Kirchberg" swimtime="16:17.76">
+                <SWIMSTYLE stroke="FREE" distance="1500" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="02.03.13" country="SUI" city="Montreux" swimtime="31.46">
+                <SWIMSTYLE stroke="BACK" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1997" lastname="Hoch" gender="M" firstname="Tarik"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="1:05.57">
+                <SWIMSTYLE stroke="BACK" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+            </RECORD>
+            <RECORD date="26.05.99" country="LIE" city="Vaduz" swimtime="2:22.96">
+                <SWIMSTYLE stroke="BACK" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+            </RECORD>
+            <RECORD date="15.06.13" country="FRA" city="Canet-en-Roussillon" swimtime="30.59">
+                <SWIMSTYLE stroke="BREAST" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="13.12.09" country="GER" city="Karlsruhe" swimtime="1:06.69">
+                <SWIMSTYLE stroke="BREAST" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1992" lastname="Beck" gender="M" firstname="Simon"/>
+            </RECORD>
+            <RECORD date="29.05.13" country="LUX" city="Kirchberg" swimtime="2:21.06">
+                <SWIMSTYLE stroke="BREAST" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="16.06.13" country="FRA" city="Canet-en-Roussillon" swimtime="26.90">
+                <SWIMSTYLE stroke="FLY" distance="50" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="09.07.11" country="SRB" city="Belgrad" swimtime="59.65">
+                <SWIMSTYLE stroke="FLY" distance="100" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="28.05.13" country="LUX" city="Kirchberg" swimtime="2:05.44">
+                <SWIMSTYLE stroke="FLY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="31.07.13" country="ESP" city="Barcelona" swimtime="2:05.08">
+                <SWIMSTYLE stroke="MEDLEY" distance="200" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="04.08.13" country="ESP" city="Barcelona" swimtime="4:23.90">
+                <SWIMSTYLE stroke="MEDLEY" distance="400" relaycount="1"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="1:45.41">
+                <SWIMSTYLE stroke="FREE" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="26.06.99" country="SUI" city="Kreuzlingen" swimtime="3:54.38">
+                <SWIMSTYLE stroke="FREE" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+            </RECORD>
+            <RECORD date="26.06.99" country="SUI" city="Kreuzlingen" swimtime="8:48.04">
+                <SWIMSTYLE stroke="FREE" distance="200" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="2:12.69">
+                <SWIMSTYLE stroke="BACK" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="2:16.22">
+                <SWIMSTYLE stroke="BREAST" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+            </RECORD>
+            <RECORD date="20.03.99" country="GER" city="München" swimtime="2:00.02">
+                <SWIMSTYLE stroke="FLY" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+            </RECORD>
+            <RECORD date="03.05.97" country="BEL" city="Antwerpen " swimtime="2:09.07">
+                <SWIMSTYLE stroke="MEDLEY" distance="50" relaycount="4"/>
+                <ATHLETE birthyear="1980" lastname="Wolfinger" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1981" lastname="Laupper" gender="M" firstname="Florin"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+            </RECORD>
+            <RECORD date="26.06.99" country="SUI" city="Kreuzlingen" swimtime="4:27.34">
+                <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="4"/>
+                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1980" lastname="Mathis" gender="M" firstname="Thomas"/>
+                <ATHLETE birthyear="1980" lastname="Gross" gender="M" firstname="Tobias"/>
+                <ATHLETE birthyear="1979" lastname="Wanger" gender="M" firstname="Thomas"/>
+            </RECORD>
+        </RECORDS>
+    </RECORDLIST>
+</RECORDLISTS>
