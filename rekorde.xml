@@ -50,7 +50,7 @@
                 <SWIMSTYLE stroke="BREAST" distance="200" relaycount="1"/>
                 <ATHLETE birthyear="1996" lastname="Banzer" gender="F" firstname="Theresa"/>
             </RECORD>
-            <RECORD date="03.05.09" country="SUI" city="Biel" swimtime="29.98">
+            <RECORD date="17.11.13" country="FRA" city="Lyon" swimtime="29.65">
                 <SWIMSTYLE stroke="FLY" distance="50" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Hassler" gender="F" firstname="Julia"/>
             </RECORD>
@@ -280,7 +280,7 @@
                 <SWIMSTYLE stroke="BACK" distance="100" relaycount="1"/>
                 <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
             </RECORD>
-            <RECORD date="26.10.13" country="SUI" city="Uster" swimtime="2:08.81">
+            <RECORD date="17.11.13" country="FRA" city="Lyon" swimtime="2:08.28">
                 <SWIMSTYLE stroke="BACK" distance="200" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
