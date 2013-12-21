@@ -268,7 +268,7 @@
                 <SWIMSTYLE stroke="FREE" distance="800" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
-            <RECORD date="26.10.13" country="SUI" city="Uster" swimtime="15:32.57">
+            <RECORD date="14.12.13" country="DEN" city="Herning" swimtime="15:21.74">
                 <SWIMSTYLE stroke="FREE" distance="1500" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
@@ -292,7 +292,7 @@
                 <SWIMSTYLE stroke="BREAST" distance="100" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
-            <RECORD date="25.03.12" country="SUI" city="Uster" swimtime="2:18.88">
+            <RECORD date="15.12.13" country="DEN" city="Herning" swimtime="2:12.00">
                 <SWIMSTYLE stroke="BREAST" distance="200" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
@@ -312,11 +312,11 @@
                 <SWIMSTYLE stroke="MEDLEY" distance="100" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
-            <RECORD date="14.12.12" country="TUR" city="Istanbul" swimtime="2:01.25">
+            <RECORD date="12.12.13" country="DEN" city="Herning" swimtime="2:01.10">
                 <SWIMSTYLE stroke="MEDLEY" distance="200" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
-            <RECORD date="23.11.12" country="FRA" city="Chartres" swimtime="4:17.07">
+            <RECORD date="13.12.13" country="DEN" city="Herning" swimtime="4:14.80">
                 <SWIMSTYLE stroke="MEDLEY" distance="400" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
