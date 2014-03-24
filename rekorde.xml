@@ -397,7 +397,7 @@
                 <SWIMSTYLE stroke="FREE" distance="1500" relaycount="1"/>
                 <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
-            <RECORD date="02.03.13" country="SUI" city="Montreux" swimtime="31.46">
+            <RECORD date="02.03.14" country="SUI" city="Zürich" swimtime="30.98">
                 <SWIMSTYLE stroke="BACK" distance="50" relaycount="1"/>
                 <ATHLETE birthyear="1997" lastname="Hoch" gender="M" firstname="Tarik"/>
             </RECORD>
@@ -405,9 +405,9 @@
                 <SWIMSTYLE stroke="BACK" distance="100" relaycount="1"/>
                 <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
             </RECORD>
-            <RECORD date="26.05.99" country="LIE" city="Vaduz" swimtime="2:22.96">
+            <RECORD date="15.03.14" country="GER" city="Sindelfingen" swimtime="2:17.78">
                 <SWIMSTYLE stroke="BACK" distance="200" relaycount="1"/>
-                <ATHLETE birthyear="1982" lastname="Höpker" gender="M" firstname="Alexander"/>
+                <ATHLETE birthyear="1993" lastname="Meier" gender="M" firstname="Christoph"/>
             </RECORD>
             <RECORD date="15.06.13" country="FRA" city="Canet-en-Roussillon" swimtime="30.59">
                 <SWIMSTYLE stroke="BREAST" distance="50" relaycount="1"/>
